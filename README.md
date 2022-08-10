@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Liza</h1>
 <h3 align="center">A passionate student backend developer from Denmark</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/girl-hacker-hacker-girl-code-code-girl-gif-16793279">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lizalaugardhald&label=Profile%20views&color=0e75b6&style=flat" alt="lizalaugardhald" /> </p>
