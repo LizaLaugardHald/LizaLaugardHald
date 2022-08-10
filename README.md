@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/girl-hacker-hacker-girl-code-code-girl-gif-16793279)](https://github.com/LizaLaugardHald)
+[![MasterHead](https://wallpaperaccess.com/full/3865569.jpg)](https://github.com/LizaLaugardHald)
 
 <h1 align="center">Hi 👋, I'm Liza</h1>
 <h3 align="center">A passionate student backend developer from Denmark</h3>
