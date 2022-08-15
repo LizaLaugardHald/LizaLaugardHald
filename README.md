@@ -2,14 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Liza</h1>
 <h3 align="center">A passionate student backend developer from Denmark</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif">
+<p align="center">
+<img alt="Coding" width="400" src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif">
+  </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lizalaugardhald&label=Profile%20views&color=0e75b6&style=flat" alt="lizalaugardhald" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lizalaugardhald" alt="lizalaugardhald" /></a> </p>
 
-- 🔭 I’m currently working on **Customizable short URLs**
+- 🔭 I’m currently working on **Cookbook application for collection of recipes**
 
 - 🌱 I’m currently learning **Python**
 
@@ -19,12 +21,11 @@
 
 - 📫 How to reach me **liza.voros@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/liza-laug%C3%A5rd-hald-50421a21b/](https://www.linkedin.com/in/liza-laug%C3%A5rd-hald-50421a21b/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/liza laugård hald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liza laugård hald" height="30" width="40" /></a>
-<a href="https://fb.com/liza vörös" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="liza vörös" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/liza-laug%C3%A5rd-hald-50421a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liza laugård hald" height="30" width="40" /></a>
+<a href="https://www.facebook.com/voros.liza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="liza vörös" height="30" width="40" /></a>
 <a href="https://instagram.com/prettygirldk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prettygirldk" height="30" width="40" /></a>
 </p>
 
