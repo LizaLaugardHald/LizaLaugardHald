@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lizalaugardhald" alt="lizalaugardhald" /></a> </p>
 
-- 🔭 I’m currently working on **Cookbook application for collection of recipes**
+- 🔭 I’m currently working on **Machine learning - Iris Flower**
 
 - 🌱 I’m currently learning **Python**
 
