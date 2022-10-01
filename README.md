@@ -12,7 +12,7 @@ I study Biomedical Engineering but I can't get enough of IT and programming so I
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lizalaugardhald&label=Profile%20views&color=0e75b6&style=flat" alt="lizalaugardhald" /> </p>
 
 <p align="center">
-<img alt="Coding" width="400" src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif](https://gifimage.net/wp-content/uploads/2018/11/computer-coding-gif-4.gif">
+<img alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2018/11/computer-coding-gif-4.gif">
   </p>
 
 - 🔭 I’m currently working on **Machine learning - Iris Flower**
