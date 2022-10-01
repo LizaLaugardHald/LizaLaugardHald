@@ -8,9 +8,6 @@
 
 I study Biomedical Engineering but I can't get enough of IT and programming so I created this Github account to show you what I'm working on. With software development, there is always something new to discover. Designing a program that is truly helpful to the user is my ultimate goal on every project. During my studies at Aalborg University, I learned so much about programming, machine learning, statistics, biology, group work, and I will use this knowledge to make the world a better place.
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lizalaugardhald&label=Profile%20views&color=0e75b6&style=flat" alt="lizalaugardhald" /> </p>
-
 <p align="center">
 <img alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2018/11/computer-coding-gif-4.gif">
   </p>
@@ -24,6 +21,7 @@ I study Biomedical Engineering but I can't get enough of IT and programming so I
 - 💬 Ask me about **iOS, Python, Health**
 
 - 📫 How to reach me **liza.voros@hotmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lizalaugardhald&label=Profile%20views&color=0e75b6&style=flat" alt="lizalaugardhald" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
