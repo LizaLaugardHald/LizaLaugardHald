@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Liza</h1>
 <h3 align="center">A passionate student backend developer from Denmark</h3>
 <p align="center">
-<img alt="Coding" width="400" src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif">
+<!--<img alt="Coding" width="400" src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif">-->
   </p>
 
 
