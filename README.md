@@ -1,10 +1,12 @@
 <!--[![MasterHead](https://wallpaperaccess.com/full/3865569.jpg)](https://github.com/LizaLaugardHald)-->
 
 <h1 align="center">Hi 👋, I'm Liza</h1>
-<h3 align="center">A passionate student backend developer from Denmark</h3>
+<!--<h3 align="center">A passionate student backend developer from Denmark</h3>-->
 <p align="center">
 <!--<img alt="Coding" width="400" src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif">-->
   </p>
+
+I study Biomedical Engineering but I can't get enough of IT and programming so I created this Github account to show you what I'm working on. With software development, there is always something new to discover. Designing a program that is truly helpful to the user is my ultimate goal on every project. During my studies at Aalborg University, I learned so much about programming, machine learning, statistics, biology, group work, and I will use this knowledge to make the world a better place.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lizalaugardhald&label=Profile%20views&color=0e75b6&style=flat" alt="lizalaugardhald" /> </p>
