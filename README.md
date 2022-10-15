@@ -12,7 +12,7 @@ I study Biomedical Engineering but I can't get enough of IT and programming so I
 <img alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2018/11/computer-coding-gif-4.gif">
   </p>
 
-- 🔭 I’m currently working on **Machine learning - Iris Flower for machine learnin and a BillTracker website**
+- 🔭 I’m currently working on **Iris Flower for machine learning and a BillTracker website**
 
 - 🌱 I’m currently learning **Python**
 
