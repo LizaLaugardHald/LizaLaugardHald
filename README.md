@@ -18,7 +18,7 @@ I study Biomedical Engineering but I can't get enough of IT and programming so I
 
 - 👨‍💻 All of my projects are available at [https://github.com/LizaLaugardHald](https://github.com/LizaLaugardHald)
 
-- 💬 Ask me about **iOS, Python, Health**
+- 💬 Ask me about **iOS, Python, Healthcare, Machine learning, Biomedical signal processing and much more**
 
 - 📫 How to reach me **liza.voros@hotmail.com**
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lizalaugardhald&label=Profile%20views&color=0e75b6&style=flat" alt="lizalaugardhald" /> </p>-->
