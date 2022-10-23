@@ -6,7 +6,7 @@
 <!--<img alt="Coding" width="400" src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif">-->
   </p>
 
-I study Biomedical Engineering but I can't get enough of IT and programming so I created this Github account to show you what I'm working on. With software development, there is always something new to discover. Designing a program that is truly helpful to the user is my ultimate goal on every project. During my studies at Aalborg University, I learned so much about programming, machine learning, statistics, biology, group work, and I will use this knowledge to make the world a better place.
+I study Biomedical Engineering but I can't get enough of IT and programming so I created this Github account to show you what I'm working on. With software development, there is always something new to discover. Designing a program that is truly helpful to the user is my ultimate goal on every project. During my studies at Aalborg University, I learned so much about programming, machine learning, statistics, biology, group work, and I will use this knowledge to make the world a better place. Unfortunately, lots of my projects at Aalborg University contain confidential information, and due to GDPR I am not allowed to share them on GitHub. Fortunately for you, I am still allowed to explain a bit about them, so do not hesitate to ask me about what I have been doing at the University all these years.  
 
 <p align="center">
 <img alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2018/11/computer-coding-gif-4.gif">
